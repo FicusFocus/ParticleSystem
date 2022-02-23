@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Skripts\HitEffect.cs" />
+    <Compile Include="Assets\Skripts\PowerBangEffect.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
